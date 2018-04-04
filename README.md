@@ -18,3 +18,6 @@ Linear MRF model for Image Denoising
 Classify audio file by binary classification model 
 - Distinguish letters in the ee-set (B,C,D,E,G,P,T,V,Z) from letters in the eh-set (F,L,M,N,S,X) using a logistic classifier from over 3000 audio datasets. 
 - Extract features from audio waveforms of letters of the alphabet. Apply binary classification model to reach 91% accuracy rate.
+
+K means classification
+- Classify the iris.dataset by kmeans and calculate the best centroid. 
